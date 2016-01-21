@@ -21,7 +21,7 @@
         %actions for rules
     end
  
- ## Rules
+## Rules
  
  Two types of rules
  
