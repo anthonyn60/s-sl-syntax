@@ -22,6 +22,7 @@
     end
  
  ## Rules
+ 
  Two types of rules
  
  Procedure
