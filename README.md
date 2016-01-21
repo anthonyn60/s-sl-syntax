@@ -60,6 +60,7 @@ Generate output token (emit)
     .identifier 
     
 Generate error token
+
     #x
     % example
     #eTypeMismatch
